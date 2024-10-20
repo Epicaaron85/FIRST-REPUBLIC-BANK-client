@@ -1,7 +1,7 @@
 local CURRENT_VERSION = "1.8.0"
 
 -- base routes
-local BASE_CCBANK_URL = "hht://94.156.128.34:3022"
+local BASE_CCBANK_URL = "http://94.156.128.34:3022"
 
 -- API routes
 local base_api_url = BASE_CCBANK_URL .. "/api/v1"
